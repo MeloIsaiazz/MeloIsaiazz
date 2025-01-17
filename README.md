@@ -1,18 +1,29 @@
-## Olá Mundo, eu sou o Matheus Isaias!
+<h1>Olá, eu sou o Matheus Isaias!</h1>
 
-# Sou um Desenvolvedor No-Code, Especializado em Bubble
+<h3>- Sou um Desenvolvedor No-Code de Bubble</h3>
+<h3>- Amo criar aplicativos, desenvolver e estimular os conhecimentos</h3>
 
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeloIsaiazz&theme=tokyonight&locale=pt-br&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeloIsaiazz&locale=pt-br&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeloIsaiazz&layout=compact&theme=tokyonight&locale=pt-br"/>
+<div>
 
-<div style="display: inline-block">
-  <img align="center" alt="Html" width=30 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Css" width=30 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Javascript" width=30 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bootstrap" width=30 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Php" width=30 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Python" width=30 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="right" alt="Picture Gif" width=180 src="https://cdn.discordapp.com/attachments/1120874352154521722/1325946025852141700/ezgif.com-animated-gif-maker.gif?ex=677da2f7&is=677c5177&hm=38f7b8ca402261681bd1ac6c2ad5c62f31013bc6087d84a81b820ab59273fa2c&">
+<div>
+  <br>
+  <h3>⚡Minhas Habilidades:</h3>
+  <img align="center" alt="Bubble" width=40 height=40 src="https://imgs.search.brave.com/lWUPKM_NwP6pradA9po6gKtPG3Pd_3ZCoziEnpGXsw0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NDc2MDA2OWU5MzA4/NDY0NmM5ZWU0Mjgv/NjQ3NjAwNjllOTMw/ODQ2NDZjOWVmMmVm/X2ljb24tYnViYmxl/LnN2Zw" style="border-radius: 16;">
+  <img align="center" alt="Xano" width=40 height=40 src="https://imgs.search.brave.com/MxV7ec3N7i6RiCFnEtn336giJqhG9gCifz3VlevCXag/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnVpbHRpbi5jb20v/Y2RuLWNnaS9pbWFn/ZS9mPWF1dG8sZml0/PWNvbnRhaW4sdz0y/MDAsaD0yMDAscT0x/MDAvaHR0cHM6Ly9i/dWlsdGluLmNvbS9z/aXRlcy93d3cuYnVp/bHRpbi5jb20vZmls/ZXMvMjAyNC0wMi9s/b2dvLXN5bWJvbC1i/bHVlLnBuZw">
+  <img align="center" alt="Figma" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Javascript" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+</div>
+
+<div>
+  <h3>💡Estou aprimorando:</h3>
+  <img align="center" alt="Python" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Php" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
 
 ##
