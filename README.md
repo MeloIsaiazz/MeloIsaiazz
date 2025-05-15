@@ -1,6 +1,6 @@
 <h1>Olá, eu sou o Matheus Isaias!</h1>
 
-<h3>- Sou um Desenvolvedor No-Code de Bubble</h3>
+<h3>- Sou um Desenvolvedor focado em Desenvolvimento Web</h3>
 <h3>- Amo criar aplicativos, desenvolver e estimular os conhecimentos</h3>
 
 
