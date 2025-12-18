@@ -1,6 +1,6 @@
-<h1>Olá, eu sou Matheus Isaias!</h1>
+<h1>Olá, sou Matheus Isaias!</h1>
 
-<h5>- Sou um Desenvolvedor focado em Desenvolvimento Web</h5>
+<h5>- Sou um entusiasta em criação de apps web</h5>
 <h5>- Amo criar aplicativos, desenvolver e estimular os conhecimentos</h5>
 
 
@@ -22,7 +22,7 @@
 
 <div>
   <h3>💡Busco aprimorar/aprender:</h3>
-  <img align="center" alt="node" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Python" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Php" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
