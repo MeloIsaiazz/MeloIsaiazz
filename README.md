@@ -1,7 +1,7 @@
 <h1>Olá, sou Matheus Isaias!</h1>
 
-<h5>- Sou um entusiasta em criação de apps web</h5>
-<h5>- Amo criar aplicativos, desenvolver e estimular os conhecimentos</h5>
+<h5>- Desde dos 13 anos, sou entusiasmado com desenvolvimento de software</h5>
+<h5>- Especializado em desenvolvimento Web</h5>
 
 
 <!--
